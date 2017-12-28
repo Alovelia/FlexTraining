@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="617d854e-1792-489d-b869-3f1b4cd152c5" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -293,7 +292,7 @@
       <workItem from="1511276500156" duration="57000" />
       <workItem from="1514198673388" duration="967000" />
       <workItem from="1514377272131" duration="17190000" />
-      <workItem from="1514480783527" duration="200000" />
+      <workItem from="1514480783527" duration="225000" />
     </task>
     <task id="LOCAL-00001" summary="Add styles for header">
       <created>1514480951469</created>
@@ -302,11 +301,18 @@
       <option name="project" value="LOCAL" />
       <updated>1514480951469</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Change README.MD">
+      <created>1514481001515</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1514481001515</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23625000" />
+    <option name="totallyTimeSpent" value="23650000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -375,7 +381,8 @@
       <path value="$PROJECT_DIR$/react-boilerplate" />
     </ignored-roots>
     <MESSAGE value="Add styles for header" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add styles for header" />
+    <MESSAGE value="Change README.MD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change README.MD" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
