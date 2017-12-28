@@ -1,0 +1,34 @@
+.circle-small {
+    width: 20px;
+    height: 20px;
+    background: black;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+}
+.rectangle-small{
+    width: 30px;
+    height: 10px;
+    background: black;
+}
+.rectangle-medium{
+    width: 40px;
+    height: 20px;
+    background: black;
+}
+.header{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+.header-left{
+    display:flex;
+    flex-direction:row;
+}
+.header-right{
+    display:flex;
+    flex-direction:row;
+}
+.header-right__block{
+    margin-left:2px;
+}

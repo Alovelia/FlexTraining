@@ -1,0 +1,10 @@
+.rectangle-big{
+    width: 150px;
+    height: 100px;
+    background: black;
+}
+.square-small{
+    width: 20px;
+    height: 20px;
+    background: black;
+}
